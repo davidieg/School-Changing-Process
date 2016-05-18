@@ -1,0 +1,12 @@
+#leftColumn {
+    float: left;
+    width: 33%;
+}
+#centerColumn{
+    float: left;
+    width: 33%;
+}
+#rightColumn {
+    float: left;
+    width: 33%;
+}
