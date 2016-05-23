@@ -10,3 +10,14 @@
     float: left;
     width: 33%;
 }
+ 
+ h2 {
+    text-align: center;
+}
+
+img {
+  text-align: center; 
+  max-width: 100%;
+  height: 40;
+}
+
